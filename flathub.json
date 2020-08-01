@@ -1,4 +1,6 @@
 {
+    "end-of-life": "The plugin has been renamed to org.freedesktop.LinuxAudio.Plugins.VL1Emulator",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.VL1Emulator",
     "skip-icons-check": true,
     "skip-arches": ["arm"]
 }
